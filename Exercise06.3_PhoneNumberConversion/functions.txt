@@ -1,0 +1,4 @@
+ch = static_cast<char>(std::toupper(static_cast<unsigned char>(ch)));
+static_cast<int>(phone_num.vanity.size())
+phone_num.normalized.push_back(digit);
+std::isalnum
