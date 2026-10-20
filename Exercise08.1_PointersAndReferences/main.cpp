@@ -9,6 +9,14 @@
 //g++ -std=c++17 main.cpp -o main.exe
 //.\main.exe
 
+//Push to get hub
+/*git add main.cpp
+git commit -m "Complete Exercise 08.1 pointers and references"
+git push
+git status
+
+*/
+
 int main(){
 
 int i = 23; 
