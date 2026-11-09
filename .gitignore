@@ -2,3 +2,9 @@ build/
 *.exe
 *.o
 *.obj
+
+build*/
+*.exe
+
+build*/
+*.exe
